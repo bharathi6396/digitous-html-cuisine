@@ -1,0 +1,14 @@
+.background{
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+}
+nav, header {
+    background-color: rgb(0 0 0 / 80%);
+}
+.navbar {
+    border-bottom: 2px solid rgb(73 72 72 / 80%);
+}
+.navbar li a{
+    font-size: 30px;
+}
